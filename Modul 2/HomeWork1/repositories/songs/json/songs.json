@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "title": "Terlalu Lama",
+        "url": "https://open.spotify.com/track/3ubllsz0XnpKhzi6UacgHE?si=c846c1ca557e4c45",
+        "count": 3,
+        "artist_id": 1
+    },
+        {
+        "id": "2",
+        "title": "Seandainya",
+        "url": "https://open.spotify.com/track/1VMtsqCaMNErFRmmvt4exv?si=9fe81fced2414948",
+        "count": 5,
+        "artist_id": 1
+    },
+        {
+        "id": "3",
+        "title": "Perahu Kertas",
+        "url": "https://open.spotify.com/track/0InJPuWIYp8fwlBGIQglLf?si=d7cdb9e29bdc4754",
+        "count": 2,
+        "artist_id": 2
+    },
+        {
+        "id": "4",
+        "title": "Jatuh Hati",
+        "url": "https://open.spotify.com/track/0rgEL2cD2T5MDzSDJTQNlw?si=219bb66e2e3c4ba2",
+        "count": 0,
+        "artist_id": 3
+    }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "HomeWork1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "uuid": "^9.0.0"
+  },
+  "type": "module"
+}
